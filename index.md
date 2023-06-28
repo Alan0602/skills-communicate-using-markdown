@@ -1,7 +1,21 @@
-# My first Markdown
+# This is an `<h1>` header, which is the largest
 
-## it is a new change
+## This is an `<h2>` header
 
-### it is very challenging task
+### This is an `<h3>` header
 
-#### before i know it
+#### This is an `<h4>` header
+
+##### This is an `<h5>` header
+
+###### This is an `<h6>` header, which is the smallest
+
+![Image of cat coder](https://github.com/Jenin82/Jenin82/blob/main/coder-cat-2.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+- [ ] Turn on Google location
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
